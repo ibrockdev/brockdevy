@@ -8,8 +8,8 @@
 </p> 
 
 <p align="left">
-    <a href="https://twitter.com/@NewJustEvil" target="_blank">
-        <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" />
+    <a href="https://x.com/brockdevy0" target="_blank">
+        <img src="https://img.shields.io/badge/brockdevy0-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@brockdevy0" />
     </a>
     <a href="https://discordapp.com/users/391283181665517568" target="_blank">
         <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" />
