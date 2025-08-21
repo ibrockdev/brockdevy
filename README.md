@@ -1,26 +1,58 @@
+<div align="center">
+    <h2>Hi there 👋</h2>
+    <img width="1850" height="260" align="center" src="https://imgur.com/a/h9Vjgxh" alt="Brockdev"/>
+</div>
+<br/>
+<p align="left">
+    I'm <b>Brockdevy</b>, Solo soy un programador mas del monton que tiene sueños y metas que cumplir.
+</p> 
 
-<h2 align="left">Hi there, I'm <a href="https://brockdevy.org." target="_blank" rel="noopener noreferrer">Brockdev</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-
-<a href="https://github.com/brockdevy"></a></h2>
-
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-[![GitHub followers](https://img.shields.io/github/followers/BrcKDev?style=social)](https://github.com/brockdevy)
-![Discord](https://discord.com/api/guilds/1264487636601671700/widget.json)
-- 🎓 
-- 💻  []() 
-- ⭐  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ 
-
-
-#### Languages and Tools 
-<p>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
-  <code><a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a></code>
+<p align="left">
+    <a href="https://twitter.com/@NewJustEvil" target="_blank">
+        <img src="https://img.shields.io/badge/NewJustEvil-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@NewJustEvil" />
+    </a>
+    <a href="https://discordapp.com/users/391283181665517568" target="_blank">
+        <img src="https://img.shields.io/badge/JustEvil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="JustEvil" />
+    </a>
 </p>
 
------
-Support: [Discord](https://discord.gg/BnjjhTpg5H)
+- 🧰 Trabajando dura en **KronelGuard** un Bot de Discord.
+- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/brockdevy?tab=repositories)**,
+- 📦 Owner of **[Sector X](https://discord.gg/kaamnUFMBA)**.
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+    <h2>✨ Actitity</h2>
+    <a href="https://discordapp.com/users/391283181665517568" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/391283181665517568" />
+    </a>
+    <br/>
+    <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=lcjpn1qvagz3nkokz9ly82e50" />
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <h2>📖 Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
+    <a href="https://wakatime.com/@JustEvil" target="_blank">
+	    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustEvil&theme=dark&layout=compact&border_radius=5px&custom_title=JustEvil%27s%20Stats">
+    </a>
+</div>
