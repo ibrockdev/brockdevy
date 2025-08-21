@@ -1,6 +1,10 @@
 <div align="center">
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0fd57644-098b-459b-ba58-5dc75753844a" />
+
+    
     <h2>Hi there 👋</h2>
-    <img width="1850" height="260" align="center" src="https://i.imgur.com/brockdev-h9Vjgxh" alt="Brockdev"/>
+    <img width="1850" height="260" align="center" src="" alt="Brockdev"/>
 </div>
 <br/>
 <p align="left">
