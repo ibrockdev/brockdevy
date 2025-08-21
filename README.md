@@ -36,9 +36,9 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" />
-    <a href="https://wakatime.com/@JustEvil" target="_blank">
-	    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustEvil&theme=dark&layout=compact&border_radius=5px&custom_title=JustEvil%27s%20Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=brockdevy&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brockdevy&theme=dark" />
+    <a href="https://wakatime.com/@brockdevy" target="_blank">
+	    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brockdevy&theme=dark&layout=compact&border_radius=5px&custom_title=brockdevy%27s%20Stats">
     </a>
 </div>
