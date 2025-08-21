@@ -5,7 +5,7 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 [![GitHub followers](https://img.shields.io/github/followers/BrcKDev?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discord.com/api/guilds/1264487636601671700/widget.json)
+![Discord](<iframe src="https://discord.com/widget?id=1264487636601671700&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)
 - 🎓 
 - 💻  []() 
 - ⭐  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
