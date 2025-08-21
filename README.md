@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid black;">
+<div tyle="border: 2px solid black;">
     <h2>Hi there 👋</h2>
     <img boder-radios="25px" align="center" src="https://media.discordapp.net/attachments/1378557059192197171/1407990306359480371/19_sin_titulo_20250814191456.png?ex=68a81ca8&is=68a6cb28&hm=7a25514ab289d2c3a75fa1469c4eb384d33e8f5b1f5ac80b79c55de97b4d6e15&=&format=webp&quality=lossless&width=1413&height=795" alt="Brockdev"/>
 </div>
