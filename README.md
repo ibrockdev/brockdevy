@@ -1,6 +1,6 @@
 <div align="center">
-    <h2>Hi there 👋</h2>
-    <img style="border: 2px solid black; border-radius: 25px;" align="center" src="https://media.discordapp.net/attachments/1378557059192197171/1407990306359480371/19_sin_titulo_20250814191456.png?ex=68a81ca8&is=68a6cb28&hm=7a25514ab289d2c3a75fa1469c4eb384d33e8f5b1f5ac80b79c55de97b4d6e15&=&format=webp&quality=lossless&width=1413&height=795" alt="Brockdev"/>
+    <h2>Hi there 👋</h2>
+    <img boder-radios="25px" align="center" src="https://media.discordapp.net/attachments/1370960543485001738/1407993340250685543/KGUARD_banner.png?ex=68a81f7b&is=68a6cdfb&hm=048f4aee25fecdd7bd82a6383f3d9828eb48a4332ab9083eeaaedf70ed330d69&=&format=webp&quality=lossless&width=1590&height=795" alt="Brockdev"/>
 </div>
 <br/>
 <p align="left">
