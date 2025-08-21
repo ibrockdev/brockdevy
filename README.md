@@ -1,7 +1,7 @@
 
-<h2 align="left">Hi there, I'm <a href="https://brock555yt.xyz" target="_blank" rel="noopener noreferrer">BrockDev</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://brockdevy.org." target="_blank" rel="noopener noreferrer">Brockdev</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-<a href="https://github.com/BrcKDev"></a></h2>
+<a href="https://github.com/brockdevy"></a></h2>
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 [![GitHub followers](https://img.shields.io/github/followers/BrcKDev?style=social)](https://github.com/ArisGuimera)
