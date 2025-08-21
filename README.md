@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hi there 👋</h2>
-    <img align="center" src="https://i.imgur.com/35AYkuu" alt="Brockdev"/>
+    <img src="https://i.imgur.com/35AYkuu" alt="Brockdev"/>
 </div>
 <br/>
 <p align="left">
