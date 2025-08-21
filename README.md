@@ -4,7 +4,7 @@
 <a href="https://github.com/brockdevy"></a></h2>
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-[![GitHub followers](https://img.shields.io/github/followers/BrcKDev?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/github/followers/BrcKDev?style=social)](https://github.com/brockdevy)
 ![Discord](https://discord.com/api/guilds/1264487636601671700/widget.json)
 - 🎓 
 - 💻  []() 
