@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hi there 👋</h2>
-    <img boder-radios="25px" align="center" src="https://github.com/ibrockdev/ibrockdev/blob/main/ibrock05" alt="ibrockdev"/>
+    <img boder-radios="25px" align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="ibrockdev"/>
 </div>
 <br/>
 <p align="left">
