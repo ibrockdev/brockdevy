@@ -1,23 +1,23 @@
 <div align="center">
     <h2>Hi there 👋</h2>
-    <img boder-radios="25px" align="center" src="https://media.discordapp.net/attachments/1370960543485001738/1407993340250685543/KGUARD_banner.png?ex=68a81f7b&is=68a6cdfb&hm=048f4aee25fecdd7bd82a6383f3d9828eb48a4332ab9083eeaaedf70ed330d69&=&format=webp&quality=lossless&width=1590&height=795" alt="Brockdev"/>
+    <img boder-radios="25px" align="center" src="https://media.discordapp.net/attachments/1370960543485001738/1407993340250685543/KGUARD_banner.png?ex=68a81f7b&is=68a6cdfb&hm=048f4aee25fecdd7bd82a6383f3d9828eb48a4332ab9083eeaaedf70ed330d69&=&format=webp&quality=lossless&width=1590&height=795" alt="ibrockdev"/>
 </div>
 <br/>
 <p align="left">
-    I'm <b>Brockdevy</b>, Solo soy un programador mas del monton que tiene sueños y metas que cumplir.
+    I'm <b>iBrockdev</b>, Solo soy un programador mas del monton que tiene sueños y metas que cumplir.
 </p> 
 
 <p align="left">
-    <a href="https://x.com/brockdevy0" target="_blank">
-        <img src="https://img.shields.io/badge/brockdevy0-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@brockdevy0" />
+    <a href="https://x.com/ibrockdev" target="_blank">
+        <img src="https://img.shields.io/badge/ibrockdev-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@ibrockdev" />
     </a>
     <a href="https://discordapp.com/users/1144023568431186052" target="_blank">
-        <img src="https://img.shields.io/badge/brockdevy-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="brockdevy" />
+        <img src="https://img.shields.io/badge/brockdevy-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ibrockdev" />
     </a>
 </p>
 
 - 🧰 Trabajando dura en **KronelGuard** un Bot de Discord.
-- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/brockdevy?tab=repositories)**,
+- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/ibrockdev?tab=repositories)**,
 - 📦 Owner of **[Sector X](https://discord.gg/kaamnUFMBA)**.
 
 ---
@@ -36,6 +36,6 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=brockdevy&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brockdevy&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrockdevy&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrockdevy&theme=dark" />
 </div>
