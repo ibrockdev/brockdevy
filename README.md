@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/ibrockdev-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@ibrockdev" />
     </a>
     <a href="https://discordapp.com/users/1144023568431186052" target="_blank">
-        <img src="https://img.shields.io/badge/brockdevy-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ibrockdev" />
+        <img src="https://img.shields.io/badge/ibrockdev-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ibrockdev" />
     </a>
 </p>
 
@@ -36,6 +36,6 @@
 
 <div align="center">
     <h2>📖 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ibrockdevy&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrockdevy&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrockdev&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrockdev&theme=dark" />
 </div>
